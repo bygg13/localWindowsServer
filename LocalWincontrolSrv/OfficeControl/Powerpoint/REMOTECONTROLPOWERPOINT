@@ -1,0 +1,24 @@
+bruk program under mappe
+LocalWindowsControl
+
+for å teste om powerpoint styring virker og se alle urlene
+bruk applikasjonen : PPTester som administrator
+
+Da må powerpoint være oppe med en presentasjon.
+Det virker som om presentasjonsfila må ligge på lokal disk
+
+Denne vil prøve å navigere fram og tilbake i powerpointen med status for hver funksjon
+
+Hvis dette virker så kan du starte
+LocalWincontrolSrv som administrator
+
+Du vil få opp hvilken url som skal brukes, hvis du går til denne url vil du få en tekst streng med alle mulige url etter denne basis url
+
+url /powerpoint/
+
+/nextSlide
+/prevSlide
+/firstSlide
+/lastSlide
+/getCurrentSlide
+/status
